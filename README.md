@@ -1,4 +1,4 @@
-# hello-world
+# Hi everyone
 Trying out git
 
 Hi everyone. 
